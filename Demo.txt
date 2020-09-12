@@ -1,2 +1,3 @@
 Hello
 New line added in local repository
+New Line added
